@@ -46,8 +46,8 @@ const TasksList = () => {
      {count} {count === 0 ? "task found, please create one." : "tasks found"}
     </h2>
     {totalPages < 2 ? null : (
-     //  <ButtonContainer currentPage={page} totalPages={totalPages} />
-     <ComplexButtonContainer currentPage={page} totalPages={totalPages} />
+     <ButtonContainer currentPage={page} totalPages={totalPages} />
+     //  <ComplexButtonContainer currentPage={page} totalPages={totalPages} />
     )}
    </div>
    {/*button: */}
