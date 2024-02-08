@@ -45,12 +45,12 @@ const CreateTaskForm = () => {
    if (!data) {
     // alert("there was an error");
     toast({
-     description: "there was an error",
+     description: "There was an error",
     });
     return;
    }
    // alert("task created");
-   toast({ description: "task created" });
+   toast({ description: "Task created" });
    queryClient.invalidateQueries({ queryKey: ["tasks"] });
    queryClient.invalidateQueries({ queryKey: ["stats"] });
    queryClient.invalidateQueries({ queryKey: ["charts"] });
@@ -73,11 +73,11 @@ const CreateTaskForm = () => {
     onSubmit={form.handleSubmit(onSubmit)}>
     <h2 className='capitalize font-semibold text-4xl mb-6'>Add Task</h2>
 
-    <div className='grid gap-4 md:grid-cols-2 lg:grid-cols-3  items-start'>
+    <div className='capitalize grid gap-4 md:grid-cols-2 lg:grid-cols-3  items-start'>
      {/*  */}
-     {/* position */}
+     {/* title */}
      <CustomFormField name='title' control={form.control} />
-     {/* company */}
+     {/* note */}
      <CustomFormField name='note' control={form.control} />
      {/* location */}
      <CustomFormField name='location' control={form.control} />

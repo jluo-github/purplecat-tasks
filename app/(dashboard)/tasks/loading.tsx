@@ -1,4 +1,4 @@
 const loading = () => {
- return <div>loading</div>;
+ return <h2 className='text-xl font-medium capitalize'>loading...</h2>;
 };
 export default loading;
