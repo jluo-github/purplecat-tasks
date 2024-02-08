@@ -22,7 +22,7 @@ const ButtonContainer = ({ currentPage, totalPages }: ButtonContainerProps) => {
  const handlePageChange = (page: number) => {
   const defaultParams = {
    search: searchParams.get("search") || "",
-   jobStatus: searchParams.get("jobStatus") || "",
+   taskStatus: searchParams.get("taskStatus") || "",
    page: String(page),
   };
 
