@@ -5,6 +5,7 @@ import { getAllTasksAction } from "@/utils/actions";
 import { useQuery } from "@tanstack/react-query";
 import ButtonContainer from "./ButtonContainer";
 import ComplexButtonContainer from "./ComplexButtonContainer";
+import { redirect } from "next/navigation";
 
 const TasksList = () => {
  const searchParams = useSearchParams();
@@ -32,14 +33,18 @@ const TasksList = () => {
 
  if (isPending) return <h2 className='text-xl'>Please Wait...</h2>;
 
- if (tasks.length < 1)
-  return <h2 className='text-xl'>No tasks found, please create one.</h2>;
+ if (tasks.length < 1) {
+  // redirect("/add-task");
+  <h2 className='text-xl'>No tasks found, please create one.</h2>;
+ }
 
  return (
   <>
    {" "}
    <div className='flex items-center justify-between mb-8'>
-    <h2 className='text-xl font-semibold capitalize '>{count} tasks found</h2>
+    <h2 className='text-lg font-semibold capitalize '>
+     {count} {count === 0 ? "task found, please create one." : "tasks found"}
+    </h2>
     {totalPages < 2 ? null : (
      //  <ButtonContainer currentPage={page} totalPages={totalPages} />
      <ComplexButtonContainer currentPage={page} totalPages={totalPages} />

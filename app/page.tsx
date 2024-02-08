@@ -20,7 +20,7 @@ export default function Home() {
      </h1>
      <p className='leading-lose max-w-md mt-4 text-xl'>
       Stay Organized and Efficient. Keep track of your tasks and priorities all
-      in one place
+      in one place.
      </p>
      <Button asChild className='mt-4'>
       <Link href='/tasks'>Get Started</Link>
