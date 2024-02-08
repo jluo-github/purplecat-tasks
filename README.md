@@ -58,7 +58,3 @@ npx shadcn-ui@latest add skeleton
 ### npm
 
 [recharts](https://recharts.org/en-US/examples)
-
-### npm
-
-### npm
