@@ -14,7 +14,7 @@ export default function Home() {
    </header>
 
    <section className='max-w-6xl mx-auto px-4 sm:px-8 py-6 h-screen -mt-20 grid lg:grid-cols-[1fr,400px] items-center'>
-    <div>
+    <div className='pt-20 px-8'>
      <h1 className='capitalize text-4xl md:text-7xl font-bold'>
       <span className='text-primary'>PurpleCat</span> Tasks
      </h1>
@@ -23,10 +23,14 @@ export default function Home() {
       in one place
      </p>
      <Button asChild className='mt-4'>
-      <Link href='/add-task'>Get Started</Link>
+      <Link href='/tasks'>Get Started</Link>
      </Button>
     </div>
-    <Image src={cat1} alt='landing' className='hidden lg:block' />
+    <Image
+     src={cat1}
+     alt='landing'
+     className='mx-auto mb-8 p-12 lg:m-auto lg:p-4 lg:block'
+    />
    </section>
   </main>
  );
