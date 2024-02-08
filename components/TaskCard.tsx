@@ -43,7 +43,7 @@ const TaskCard = ({ task }: { task: TaskType }) => {
 
    <CardFooter className='flex gap-4'>
     <Button asChild size='sm'>
-     <Link href={`/tasks/${task.id}`}>edit</Link>
+     <Link href={`/tasks/${task.id}`}>Edit</Link>
     </Button>
 
     <DeleteTaskButton id={task.id} />

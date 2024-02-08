@@ -180,8 +180,8 @@ export async function updateTaskAction(
 
 export async function getStatsAction(): Promise<{
  pending: number;
- interview: number;
- declined: number;
+ completed: number;
+ canceled: number;
 }> {
  const userId = authenticateAndRedirect();
 
@@ -203,8 +203,8 @@ export async function getStatsAction(): Promise<{
 
   const defaultStats = {
    pending: 0,
-   declined: 0,
-   interview: 0,
+   canceled: 0,
+   completed: 0,
    ...statsObject,
   };
   return defaultStats;
