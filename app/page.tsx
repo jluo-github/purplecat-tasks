@@ -23,7 +23,7 @@ export default function Home() {
       in one place
      </p>
      <Button asChild className='mt-4'>
-      <Link href='/add-job'>Get Started</Link>
+      <Link href='/add-task'>Get Started</Link>
      </Button>
     </div>
     <Image src={cat1} alt='landing' className='hidden lg:block' />
