@@ -13,7 +13,7 @@ import dayjs from "dayjs";
 
 function authenticateAndRedirect(): string {
  const { userId } = auth();
- console.log("userId: ", userId);
+ // console.log("userId: ", userId);
  // userId user_2c1jnlc5WVzLI9bwy02t49ZJMEU
 
  if (!userId) {
