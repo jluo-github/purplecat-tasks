@@ -32,7 +32,8 @@ const TasksList = () => {
 
  if (isPending) return <h2 className='text-xl'>Please Wait...</h2>;
 
- if (tasks.length < 1) return <h2 className='text-xl'>No Tasks Found...</h2>;
+ if (tasks.length < 1)
+  return <h2 className='text-xl'>No tasks found, please create one.</h2>;
 
  return (
   <>
