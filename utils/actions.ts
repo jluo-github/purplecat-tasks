@@ -26,7 +26,7 @@ export async function createTaskAction(
  values: CreateAndEditTaskType
 ): Promise<TaskType | null> {
  // promise to wait for 0.5 second:
- await new Promise((resolve) => setTimeout(resolve, 500));
+ // await new Promise((resolve) => setTimeout(resolve, 500));
 
  const userId = authenticateAndRedirect();
  try {
