@@ -5,7 +5,7 @@ import { ArrowUp } from "lucide-react";
 const ScrollUpButton = () => {
  return (
   <Button
-   className='fixed bottom-5 right-8 z-50 cursor-pointer p-4'
+   className='fixed bottom-5 right-6 z-50 cursor-pointer p-4'
    variant='secondary'
    onClick={() => {
     window.scrollTo({ top: 0, behavior: "smooth" });
