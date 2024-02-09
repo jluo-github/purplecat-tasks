@@ -7,7 +7,9 @@ Please visit [PurpleCat-Tasks-App](https://purple-cat-task.vercel.app/)
 
 ### npm
 
-npx shadcn-ui@latest init
+- [shadcn](https://ui.shadcn.com/)
+
+- npx shadcn-ui@latest init
 
 ### npm
 
@@ -15,9 +17,8 @@ npx shadcn-ui@latest add button
 
 ### npm
 
-- npm install lucide-react
-
 - [lucide icons](https://lucide.dev/)
+- npm install lucide-react
 
 ### npm
 

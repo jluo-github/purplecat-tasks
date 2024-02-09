@@ -35,11 +35,11 @@ const EditTaskForm = ({ taskId }: { taskId: string }) => {
   onSuccess: (data) => {
    if (!data) {
     toast({
-     description: "there was an error",
+     description: "There was an error",
     });
     return;
    }
-   toast({ description: "task updated" });
+   toast({ description: "Task updated" });
    queryClient.invalidateQueries({ queryKey: ["tasks"] });
    queryClient.invalidateQueries({ queryKey: ["task", taskId] });
    queryClient.invalidateQueries({ queryKey: ["stats"] });
@@ -71,7 +71,7 @@ const EditTaskForm = ({ taskId }: { taskId: string }) => {
     onSubmit={form.handleSubmit(onSubmit)}
     className='bg-muted p-8 rounded'>
     <h2 className='capitalize font-semibold text-4xl mb-6'>edit task</h2>
-    <div className='grid gap-4 md:grid-cols-2 lg:grid-cols-3 items-start'>
+    <div className='capitalize grid gap-4 md:grid-cols-2 lg:grid-cols-3 items-start'>
      {/* title */}
      <CustomFormField name='title' control={form.control} />
      {/* note */}
