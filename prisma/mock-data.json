@@ -1,802 +1,836 @@
-[
- {
-  "title": "motivating",
-  "note": "innovate open-source convergence",
-  "location": "Agodim",
-  "status": "pending",
-  "mode": "urgent",
-  "createdAt": "2022-11-30T15:40:24Z"
- },
- {
-  "title": "Monitored",
-  "note": "optimize scalable experiences",
-  "location": "Janiuay",
-  "status": "canceled",
-  "mode": "standard",
-  "createdAt": "2022-03-25T06:30:00Z"
- },
- {
-  "title": "Cloned",
-  "note": "generate bricks-and-clicks infrastructures",
-  "location": "Kamieniec Ząbkowicki",
-  "status": "canceled",
-  "mode": "important",
-  "createdAt": "2023-12-31T02:49:30Z"
- },
- {
-  "title": "demand-driven",
-  "note": "syndicate impactful infrastructures",
-  "location": "Tanjiaqiao",
-  "status": "pending",
-  "mode": "standard",
-  "createdAt": "2023-04-13T11:23:44Z"
- },
- {
-  "title": "even-keeled",
-  "note": "productize viral initiatives",
-  "location": "Ramat Yishay",
-  "status": "pending",
-  "mode": "urgent",
-  "createdAt": "2024-02-01T11:05:35Z"
- },
- {
-  "title": "Face to face",
-  "note": "envisioneer web-enabled action-items",
-  "location": "Łobez",
-  "status": "completed",
-  "mode": "important",
-  "createdAt": "2022-07-19T18:39:09Z"
- },
- {
-  "title": "zero administration",
-  "note": "architect turn-key bandwidth",
-  "location": "Kaiyuan",
-  "status": "pending",
-  "mode": "important",
-  "createdAt": "2023-05-05T22:41:15Z"
- },
- {
-  "title": "circuit",
-  "note": "architect proactive bandwidth",
-  "location": "Mamponteng",
-  "status": "completed",
-  "mode": "important",
-  "createdAt": "2023-01-11T11:25:46Z"
- },
- {
-  "title": "Reverse-engineered",
-  "note": "envisioneer cutting-edge partnerships",
-  "location": "Daba",
-  "status": "canceled",
-  "mode": "important",
-  "createdAt": "2023-05-21T00:39:54Z"
- },
- {
-  "title": "didactic",
-  "note": "benchmark collaborative infomediaries",
-  "location": "Béziers",
-  "status": "completed",
-  "mode": "standard",
-  "createdAt": "2022-06-11T19:06:45Z"
- },
- {
-  "title": "web-enabled",
-  "note": "envisioneer vertical convergence",
-  "location": "Bingerville",
-  "status": "pending",
-  "mode": "standard",
-  "createdAt": "2022-06-23T02:58:38Z"
- },
- {
-  "title": "process improvement",
-  "note": "synergize synergistic e-markets",
-  "location": "Beiwucha",
-  "status": "completed",
-  "mode": "important",
-  "createdAt": "2022-05-17T06:15:06Z"
- },
- {
-  "title": "interactive",
-  "note": "redefine open-source deliverables",
-  "location": "Zuobude",
-  "status": "completed",
-  "mode": "urgent",
-  "createdAt": "2022-12-31T00:34:16Z"
- },
- {
-  "title": "dynamic",
-  "note": "leverage world-class content",
-  "location": "São José do Rio Preto",
-  "status": "canceled",
-  "mode": "standard",
-  "createdAt": "2022-07-10T05:25:26Z"
- },
- {
-  "title": "reciprocal",
-  "note": "orchestrate 24/7 models",
-  "location": "Kaa-Khem",
-  "status": "completed",
-  "mode": "standard",
-  "createdAt": "2022-05-19T15:11:00Z"
- },
- {
-  "title": "analyzer",
-  "note": "repurpose killer niches",
-  "location": "Storuman",
-  "status": "completed",
-  "mode": "important",
-  "createdAt": "2023-10-21T11:44:28Z"
- },
- {
-  "title": "motivating",
-  "note": "engineer revolutionary partnerships",
-  "location": "Minas",
-  "status": "canceled",
-  "mode": "important",
-  "createdAt": "2023-11-18T07:52:42Z"
- },
- {
-  "title": "structure",
-  "note": "aggregate bleeding-edge synergies",
-  "location": "Nizwá",
-  "status": "completed",
-  "mode": "standard",
-  "createdAt": "2023-06-16T05:40:07Z"
- },
- {
-  "title": "real-time",
-  "note": "synergize next-generation paradigms",
-  "location": "Zongluzui",
-  "status": "pending",
-  "mode": "standard",
-  "createdAt": "2022-10-23T01:42:46Z"
- },
- {
-  "title": "architecture",
-  "note": "reinvent user-centric relationships",
-  "location": "Kostomuksha",
-  "status": "completed",
-  "mode": "urgent",
-  "createdAt": "2024-01-02T12:46:37Z"
- },
- {
-  "title": "groupware",
-  "note": "streamline back-end systems",
-  "location": "Sidi Bouzid",
-  "status": "pending",
-  "mode": "important",
-  "createdAt": "2023-01-04T19:50:22Z"
- },
- {
-  "title": "Fundamental",
-  "note": "transform front-end niches",
-  "location": "Kanturk",
-  "status": "completed",
-  "mode": "standard",
-  "createdAt": "2023-11-14T04:20:45Z"
- },
- {
-  "title": "monitoring",
-  "note": "cultivate granular ROI",
-  "location": "Pinghu",
-  "status": "pending",
-  "mode": "standard",
-  "createdAt": "2023-08-26T11:05:22Z"
- },
- {
-  "title": "Open-source",
-  "note": "utilize cross-media web services",
-  "location": "Krajan",
-  "status": "pending",
-  "mode": "urgent",
-  "createdAt": "2023-12-25T18:31:07Z"
- },
- {
-  "title": "User-centric",
-  "note": "exploit dot-com networks",
-  "location": "Novopodrezkovo",
-  "status": "pending",
-  "mode": "standard",
-  "createdAt": "2023-09-20T09:40:54Z"
- },
- {
-  "title": "asymmetric",
-  "note": "monetize viral infomediaries",
-  "location": "Rietavas",
-  "status": "completed",
-  "mode": "important",
-  "createdAt": "2023-09-16T23:30:31Z"
- },
- {
+
+mockaroo
+
+New from Mockaroo: ChatGPT for your data. Train a custom chatbot on your data in minutes with
+Need some mock data to test your app? Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
+
+Need more data? Plans start at just $60/year. Mockaroo is also available as a docker image that you can deploy in your own private cloud.
+Field Name
+Type
+Options
+title
+​
+blank:
+0
+%
+
+​
+note
+​
+blank:
+0
+%
+
+​
+location
+​
+blank:
+0
+%
+
+​
+status
+​
+pending, canceled, completed
+​
+random
+​
+blank:
+0
+%
+
+​
+mode
+​
+urgent, important, standard
+​
+random
+​
+blank:
+0
+%
+
+​
+createdAt
+​
+08/12/2023
+​
+to
+02/11/2024
+​
+format:
+%Y-%m-%dT%H:%M:%SZ
+​
+blank:
+0
+%
+
+​
+# Rows:
+100
+​
+Format:
+json
+​
+array
+include null values
+Hint: Use "." in column names to generate nested json objects, brackets to generate arrays. More information...
+
+Mock your back-end API and start coding your UI today.
+It's hard to put together a meaningful UI prototype without making real requests to an API. By making real requests, you'll uncover problems with application flow, timing, and API design early, improving the quality of both the user experience and API. With Mockaroo, you can design your own mock APIs, You control the URLs, responses, and error conditions. Paralellize UI and API development and start delivering better applications faster today!
+
+Why is test data important?
+If you're developing an application, you'll want to make sure you're testing it under conditions that closely simulate a production environment. In production, you'll have an army of users banging away at your app and filling your database with data, which puts stress on your code. If you're hand-entering data into a test environment one record at a time using the UI, you're never going to build up the volume and variety of data that your app will accumulate in a few days in production. Worse, the data you enter will be biased towards your own usage patterns and won't match real-world usage, leaving important bugs undiscovered.
+
+Why is realistic data important?
+When your test database is filled with realistic looking data, you'll be more engaged as a tester. When you demonstrate new features to others, they'll understand them faster. Real data is varied and will contain characters that may not play nice with your code, such as apostrophes, or unicode characters from other languages. Testing with realistic data will make your app more robust because you'll catch errors that are likely to occur in production before release day.
+
+Why Mockaroo?
+There are plenty of great data mocking libraries available for almost every language and platform. But not everyone is a programmer or has time to learn a new framework. Mockaroo allows you to quickly and easily to download large amounts of randomly generated test data based on your own specs which you can then load directly into your test environment using SQL or CSV formats. No programming is required.
+
+Want to automate test data generation?
+If you sign in using your Google account, you can download random data programmatically by saving your schemas and using curl to download data in a shell script via a RESTful url.
+
+What's new in Mockaroo?
+11/23/2023
+Added a Medical Beneficiary ID data type for the US Medicare system.
+11/1/2023
+You can now use the generate(datatype) function in Formulas to generate data with any of Mockaroo's built-in data types.
+10/11/2023
+You can now return records from a dataset in a Mock API using the from_dataset function.
+7/2/2023
+Added search boxes to each page.
+7/1/2023
+Added the ability to create reusable functions.
+6/24/2023
+Fixed a long standing bug in Sequence where the repeat parameter is not used correctly.
+6/10/2023
+The Password data type now allows you to customize the requirements.
+Added a new Password Hash type that returns the bcrypt hash of a random password.
+Added a new bcrypt(str) function to formulas.
+5/7/2023
+You can now generate more than 5000 records per file using the API with the new ?background=true parameter.
+4/15/2023
+You can now derive a schema from example CSV, JSON, or XML data.
+4/15/2023
+You can now generate your own custom data types using AI.
+4/12/2023
+You can now generate fields on any topic using AI
+4/2/2023
+Added support for XML attributes by naming fields starting with "@"
+2/3/2023
+Added the ability to generate v5 UUIDs via a new uuid_v5(namespace, name) function in formulas
+1/22/2023
+Added the ability to force the quote character on custom file formats.
+1/4/2023
+Added Address Line 2 type.
+12/22/2022
+Added a ULID data type.
+11/20/2022
+Added airport data.
+© 2024 Mockaroo, LLC.   |  Terms of Use   |  EULA   |  Privacy
+
+Preview
+[{
   "title": "projection",
-  "note": "orchestrate viral ROI",
-  "location": "Rungis",
-  "status": "completed",
-  "mode": "urgent",
-  "createdAt": "2022-10-09T01:40:05Z"
- },
- {
-  "title": "analyzing",
-  "note": "deploy visionary supply-chains",
-  "location": "Junqueiro",
-  "status": "pending",
-  "mode": "urgent",
-  "createdAt": "2022-05-17T21:07:58Z"
- },
- {
-  "title": "client-driven",
-  "note": "strategize customized e-markets",
-  "location": "Cikulina",
-  "status": "canceled",
-  "mode": "important",
-  "createdAt": "2022-12-17T02:30:06Z"
- },
- {
-  "title": "bifurcated",
-  "note": "synergize cross-media platforms",
-  "location": "Čížkovice",
-  "status": "canceled",
-  "mode": "standard",
-  "createdAt": "2022-02-28T17:27:37Z"
- },
- {
-  "title": "holistic",
-  "note": "disintermediate innovative e-commerce",
-  "location": "Grabów",
-  "status": "pending",
-  "mode": "important",
-  "createdAt": "2023-04-27T19:45:27Z"
- },
- {
-  "title": "Realigned",
-  "note": "redefine web-enabled mindshare",
-  "location": "Paris 14",
-  "status": "pending",
-  "mode": "important",
-  "createdAt": "2022-07-24T03:34:50Z"
- },
- {
-  "title": "Seamless",
-  "note": "transform out-of-the-box web-readiness",
-  "location": "San Cosme y Damián",
+  "note": "benchmark extensible partnerships",
+  "location": "Bang Kruai",
   "status": "completed",
   "mode": "important",
-  "createdAt": "2022-02-24T13:42:36Z"
- },
- {
-  "title": "implementation",
-  "note": "redefine B2B niches",
-  "location": "Ruyigi",
-  "status": "pending",
-  "mode": "standard",
-  "createdAt": "2023-05-04T18:22:33Z"
- },
- {
-  "title": "Reduced",
-  "note": "implement cross-platform niches",
-  "location": "Awjilah",
-  "status": "pending",
+  "createdAt": "2023-10-21T21:26:58Z"
+}, {
+  "title": "strategy",
+  "note": "recontextualize distributed models",
+  "location": "Argayash",
+  "status": "completed",
+  "mode": "important",
+  "createdAt": "2023-12-13T02:37:19Z"
+}, {
+  "title": "attitude-oriented",
+  "note": "aggregate innovative networks",
+  "location": "Songfeng",
+  "status": "completed",
   "mode": "urgent",
-  "createdAt": "2022-06-10T16:03:33Z"
- },
- {
+  "createdAt": "2023-12-14T06:45:33Z"
+}, {
+  "title": "even-keeled",
+  "note": "maximize robust supply-chains",
+  "location": "Simpang",
+  "status": "completed",
+  "mode": "urgent",
+  "createdAt": "2023-12-02T18:34:07Z"
+}, {
+  "title": "firmware",
+  "note": "architect leading-edge e-tailers",
+  "location": "Xindai",
+  "status": "completed",
+  "mode": "important",
+  "createdAt": "2023-10-10T00:55:45Z"
+}, {
+  "title": "national",
+  "note": "productize revolutionary markets",
+  "location": "Dalsjöfors",
+  "status": "completed",
+  "mode": "standard",
+  "createdAt": "2023-10-05T02:37:51Z"
+}, {
+  "title": "strategy",
+  "note": "visualize back-end platforms",
+  "location": "Gjirokastër",
+  "status": "canceled",
+  "mode": "important",
+  "createdAt": "2023-10-24T02:24:24Z"
+}, {
+  "title": "firmware",
+  "note": "visualize out-of-the-box infomediaries",
+  "location": "Pinggirsari",
+  "status": "completed",
+  "mode": "important",
+  "createdAt": "2024-01-05T17:40:36Z"
+}, {
   "title": "Right-sized",
-  "note": "empower magnetic e-services",
-  "location": "Palmas De Gran Canaria, Las",
-  "status": "completed",
-  "mode": "standard",
-  "createdAt": "2022-06-08T21:27:41Z"
- },
- {
-  "title": "background",
-  "note": "maximize extensible models",
-  "location": "La Molina",
-  "status": "completed",
-  "mode": "urgent",
-  "createdAt": "2022-03-03T11:12:39Z"
- },
- {
-  "title": "multi-state",
-  "note": "deliver wireless deliverables",
-  "location": "Ban Huai Thalaeng",
-  "status": "completed",
-  "mode": "standard",
-  "createdAt": "2022-04-09T12:01:11Z"
- },
- {
-  "title": "high-level",
-  "note": "incubate sexy infomediaries",
-  "location": "Yanhe",
-  "status": "canceled",
-  "mode": "important",
-  "createdAt": "2023-07-29T00:23:54Z"
- },
- {
-  "title": "radical",
-  "note": "grow out-of-the-box e-business",
-  "location": "Kagay",
-  "status": "pending",
-  "mode": "urgent",
-  "createdAt": "2022-05-21T12:03:23Z"
- },
- {
-  "title": "application",
-  "note": "synthesize strategic supply-chains",
-  "location": "Sainte-Anne-des-Plaines",
+  "note": "reintermediate visionary bandwidth",
+  "location": "Banaran",
   "status": "pending",
   "mode": "standard",
-  "createdAt": "2022-09-07T01:45:15Z"
- },
- {
-  "title": "intranet",
-  "note": "maximize collaborative eyeballs",
-  "location": "Saverne",
-  "status": "completed",
-  "mode": "standard",
-  "createdAt": "2023-01-13T15:00:57Z"
- },
- {
-  "title": "Graphical User Interface",
-  "note": "synthesize synergistic metrics",
-  "location": "Cilampuyang",
-  "status": "canceled",
-  "mode": "urgent",
-  "createdAt": "2022-12-09T16:15:24Z"
- },
- {
-  "title": "incremental",
-  "note": "incentivize strategic applications",
-  "location": "Ziftá",
-  "status": "completed",
-  "mode": "standard",
-  "createdAt": "2022-06-19T13:37:19Z"
- },
- {
-  "title": "eco-centric",
-  "note": "enable web-enabled content",
-  "location": "Téra",
-  "status": "canceled",
-  "mode": "important",
-  "createdAt": "2022-05-18T12:21:22Z"
- },
- {
-  "title": "Self-enabling",
-  "note": "cultivate viral relationships",
-  "location": "Västerås",
+  "createdAt": "2023-09-09T03:45:37Z"
+}, {
+  "title": "circuit",
+  "note": "repurpose granular markets",
+  "location": "Horad Smalyavichy",
   "status": "completed",
   "mode": "important",
-  "createdAt": "2022-09-10T07:04:57Z"
- },
- {
-  "title": "Reduced",
-  "note": "seize innovative synergies",
-  "location": "Balud",
-  "status": "completed",
-  "mode": "urgent",
-  "createdAt": "2022-07-20T12:25:16Z"
- },
- {
-  "title": "encompassing",
-  "note": "productize best-of-breed architectures",
-  "location": "Prado",
-  "status": "completed",
-  "mode": "standard",
-  "createdAt": "2023-05-03T07:41:21Z"
- },
- {
-  "title": "Face to face",
-  "note": "innovate best-of-breed web-readiness",
-  "location": "Tonghu",
-  "status": "pending",
-  "mode": "standard",
-  "createdAt": "2022-08-02T16:35:29Z"
- },
- {
-  "title": "methodology",
-  "note": "monetize 24/7 systems",
-  "location": "Vila Chã do Monte",
-  "status": "canceled",
-  "mode": "standard",
-  "createdAt": "2024-02-02T16:51:36Z"
- },
- {
-  "title": "hierarchy",
-  "note": "innovate bricks-and-clicks communities",
-  "location": "Fuzhou",
-  "status": "completed",
-  "mode": "important",
-  "createdAt": "2022-08-26T14:37:45Z"
- },
- {
-  "title": "Multi-channelled",
-  "note": "aggregate innovative e-commerce",
-  "location": "Partizan",
-  "status": "pending",
-  "mode": "important",
-  "createdAt": "2022-04-05T04:31:12Z"
- },
- {
-  "title": "grid-enabled",
-  "note": "expedite distributed portals",
-  "location": "Asbest",
+  "createdAt": "2023-10-12T07:34:26Z"
+}, {
+  "title": "Streamlined",
+  "note": "optimize seamless functionalities",
+  "location": "Nancy",
   "status": "canceled",
   "mode": "important",
-  "createdAt": "2023-03-22T07:39:59Z"
- },
- {
-  "title": "Digitized",
-  "note": "scale dynamic methodologies",
-  "location": "Kumamoto",
+  "createdAt": "2023-11-19T13:34:05Z"
+}, {
+  "title": "Versatile",
+  "note": "enable synergistic niches",
+  "location": "Pierreville",
   "status": "completed",
-  "mode": "urgent",
-  "createdAt": "2023-09-02T02:17:11Z"
- },
- {
-  "title": "client-driven",
-  "note": "evolve efficient solutions",
-  "location": "Hukeng",
-  "status": "canceled",
-  "mode": "urgent",
-  "createdAt": "2023-03-21T11:56:39Z"
- },
- {
-  "title": "adapter",
-  "note": "brand e-business paradigms",
-  "location": "Santa Helena de Goiás",
-  "status": "pending",
-  "mode": "urgent",
-  "createdAt": "2023-11-01T18:09:09Z"
- },
- {
-  "title": "well-modulated",
-  "note": "aggregate plug-and-play e-commerce",
-  "location": "Strängnäs",
-  "status": "completed",
-  "mode": "standard",
-  "createdAt": "2022-11-29T11:49:06Z"
- },
- {
-  "title": "zero defect",
-  "note": "scale e-business deliverables",
-  "location": "São Gotardo",
-  "status": "pending",
-  "mode": "standard",
-  "createdAt": "2022-12-10T10:18:51Z"
- },
- {
-  "title": "software",
-  "note": "optimize 24/7 web services",
-  "location": "Ludvika",
-  "status": "canceled",
-  "mode": "standard",
-  "createdAt": "2022-10-26T06:06:57Z"
- },
- {
-  "title": "homogeneous",
-  "note": "utilize rich portals",
-  "location": "Rizhao",
-  "status": "canceled",
-  "mode": "urgent",
-  "createdAt": "2023-03-17T13:35:01Z"
- },
- {
-  "title": "initiative",
-  "note": "evolve extensible convergence",
-  "location": "Ipu",
-  "status": "canceled",
   "mode": "important",
-  "createdAt": "2022-09-20T02:38:33Z"
- },
- {
-  "title": "support",
-  "note": "innovate bricks-and-clicks action-items",
-  "location": "Lue Amnat",
-  "status": "pending",
-  "mode": "standard",
-  "createdAt": "2023-11-06T11:49:36Z"
- },
- {
-  "title": "secured line",
-  "note": "productize bricks-and-clicks synergies",
-  "location": "Baratan",
-  "status": "pending",
-  "mode": "standard",
-  "createdAt": "2022-02-27T15:18:40Z"
- },
- {
-  "title": "clear-thinking",
-  "note": "morph innovative experiences",
-  "location": "Tanbu",
-  "status": "completed",
-  "mode": "standard",
-  "createdAt": "2023-09-25T23:51:34Z"
- },
- {
+  "createdAt": "2023-08-28T07:57:56Z"
+}, {
+  "title": "reciprocal",
+  "note": "reintermediate transparent paradigms",
+  "location": "Shouzhan",
+  "status": "canceled",
+  "mode": "urgent",
+  "createdAt": "2024-01-19T17:40:21Z"
+}, {
   "title": "hardware",
-  "note": "extend one-to-one action-items",
-  "location": "Kremidivka",
+  "note": "strategize turn-key solutions",
+  "location": "Kudusan",
   "status": "pending",
   "mode": "standard",
-  "createdAt": "2022-02-19T09:21:46Z"
- },
- {
-  "title": "Cross-platform",
-  "note": "engage intuitive vortals",
-  "location": "Yafan",
-  "status": "pending",
-  "mode": "standard",
-  "createdAt": "2022-10-29T03:18:13Z"
- },
- {
-  "title": "methodology",
-  "note": "synthesize user-centric web-readiness",
-  "location": "Jargalant",
-  "status": "canceled",
-  "mode": "urgent",
-  "createdAt": "2022-11-24T12:53:19Z"
- },
- {
-  "title": "open system",
-  "note": "utilize transparent channels",
-  "location": "København",
-  "status": "canceled",
-  "mode": "important",
-  "createdAt": "2023-10-07T16:38:04Z"
- },
- {
-  "title": "architecture",
-  "note": "enhance impactful experiences",
-  "location": "Krasnaya Poyma",
-  "status": "canceled",
-  "mode": "important",
-  "createdAt": "2022-08-03T03:54:53Z"
- },
- {
-  "title": "Right-sized",
-  "note": "transition granular metrics",
-  "location": "La‘l",
-  "status": "pending",
-  "mode": "important",
-  "createdAt": "2022-02-20T09:36:44Z"
- },
- {
-  "title": "zero administration",
-  "note": "mesh dot-com partnerships",
-  "location": "Wailolong",
-  "status": "canceled",
-  "mode": "standard",
-  "createdAt": "2022-03-16T04:55:21Z"
- },
- {
-  "title": "customer loyalty",
-  "note": "extend best-of-breed relationships",
-  "location": "Pau",
-  "status": "pending",
-  "mode": "urgent",
-  "createdAt": "2022-06-21T01:36:01Z"
- },
- {
-  "title": "multi-state",
-  "note": "deploy leading-edge mindshare",
-  "location": "Sá",
-  "status": "canceled",
-  "mode": "standard",
-  "createdAt": "2023-06-05T08:17:56Z"
- },
- {
-  "title": "Team-oriented",
-  "note": "enhance intuitive vortals",
-  "location": "Bocana de Paiwas",
-  "status": "completed",
-  "mode": "urgent",
-  "createdAt": "2023-02-14T21:20:45Z"
- },
- {
-  "title": "client-driven",
-  "note": "redefine cross-media networks",
-  "location": "Little Rock",
-  "status": "canceled",
-  "mode": "important",
-  "createdAt": "2023-10-24T14:20:51Z"
- },
- {
-  "title": "contingency",
-  "note": "innovate end-to-end e-tailers",
-  "location": "Luzhou",
-  "status": "completed",
-  "mode": "important",
-  "createdAt": "2023-10-11T16:54:50Z"
- },
- {
-  "title": "help-desk",
-  "note": "disintermediate robust channels",
-  "location": "Pitogo",
-  "status": "canceled",
-  "mode": "standard",
-  "createdAt": "2023-03-20T06:55:05Z"
- },
- {
-  "title": "orchestration",
-  "note": "maximize granular communities",
-  "location": "Būr Safājah",
-  "status": "pending",
-  "mode": "important",
-  "createdAt": "2022-03-28T10:37:01Z"
- },
- {
-  "title": "matrix",
-  "note": "architect impactful niches",
-  "location": "Nieborów",
-  "status": "pending",
-  "mode": "important",
-  "createdAt": "2023-05-06T11:24:04Z"
- },
- {
-  "title": "fresh-thinking",
-  "note": "generate cross-media synergies",
-  "location": "Ånge",
-  "status": "pending",
-  "mode": "standard",
-  "createdAt": "2023-02-11T18:13:05Z"
- },
- {
-  "title": "functionalities",
-  "note": "e-enable global portals",
-  "location": "Anding",
-  "status": "completed",
-  "mode": "important",
-  "createdAt": "2022-10-14T05:47:58Z"
- },
- {
-  "title": "Universal",
-  "note": "synergize dynamic vortals",
-  "location": "Monastyrishche",
-  "status": "canceled",
-  "mode": "standard",
-  "createdAt": "2022-03-14T09:29:37Z"
- },
- {
-  "title": "productivity",
-  "note": "visualize back-end infomediaries",
-  "location": "Poitiers",
-  "status": "pending",
-  "mode": "standard",
-  "createdAt": "2023-04-08T18:36:06Z"
- },
- {
-  "title": "Future-proofed",
-  "note": "repurpose back-end channels",
-  "location": "Largo",
-  "status": "completed",
-  "mode": "important",
-  "createdAt": "2023-10-27T22:33:05Z"
- },
- {
-  "title": "Profit-focused",
-  "note": "generate best-of-breed platforms",
-  "location": "Yudai",
-  "status": "pending",
-  "mode": "standard",
-  "createdAt": "2022-02-16T22:14:29Z"
- },
- {
-  "title": "infrastructure",
-  "note": "reintermediate bricks-and-clicks functionalities",
-  "location": "Mallow",
-  "status": "canceled",
-  "mode": "urgent",
-  "createdAt": "2023-05-27T00:04:53Z"
- },
- {
-  "title": "Balanced",
-  "note": "streamline sticky initiatives",
-  "location": "Ōtsuki",
-  "status": "completed",
-  "mode": "important",
-  "createdAt": "2023-09-10T00:32:10Z"
- },
- {
-  "title": "User-friendly",
-  "note": "integrate turn-key applications",
-  "location": "Yuelai",
-  "status": "pending",
-  "mode": "urgent",
-  "createdAt": "2024-01-13T09:46:28Z"
- },
- {
-  "title": "Integrated",
-  "note": "incubate collaborative web services",
-  "location": "Maiwang",
-  "status": "pending",
-  "mode": "urgent",
-  "createdAt": "2023-05-24T21:31:50Z"
- },
- {
-  "title": "stable",
-  "note": "envisioneer holistic infrastructures",
-  "location": "Yeniköy",
-  "status": "canceled",
-  "mode": "urgent",
-  "createdAt": "2024-01-22T11:53:43Z"
- },
- {
-  "title": "Profit-focused",
-  "note": "target next-generation e-tailers",
-  "location": "Sangari",
+  "createdAt": "2023-12-22T04:16:32Z"
+}, {
+  "title": "User-centric",
+  "note": "incentivize bricks-and-clicks paradigms",
+  "location": "Tarxien",
   "status": "completed",
   "mode": "standard",
-  "createdAt": "2023-07-08T00:57:10Z"
- },
- {
-  "title": "Operative",
-  "note": "syndicate customized communities",
-  "location": "Kuchurhan",
-  "status": "completed",
-  "mode": "important",
-  "createdAt": "2022-07-29T11:33:37Z"
- },
- {
-  "title": "intranet",
-  "note": "strategize compelling networks",
-  "location": "Matumadua",
+  "createdAt": "2023-08-22T04:47:30Z"
+}, {
+  "title": "cohesive",
+  "note": "envisioneer extensible web-readiness",
+  "location": "Mégara",
   "status": "canceled",
   "mode": "important",
-  "createdAt": "2022-12-11T09:51:27Z"
- },
- {
-  "title": "Integrated",
-  "note": "orchestrate B2B vortals",
-  "location": "Alençon",
-  "status": "completed",
+  "createdAt": "2023-12-24T15:01:06Z"
+}, {
+  "title": "Multi-tiered",
+  "note": "enhance plug-and-play interfaces",
+  "location": "Novopavlovsk",
+  "status": "pending",
   "mode": "urgent",
-  "createdAt": "2022-10-25T02:11:03Z"
- },
- {
+  "createdAt": "2023-10-16T13:54:09Z"
+}, {
+  "title": "parallelism",
+  "note": "deliver rich action-items",
+  "location": "Oulad Frej",
+  "status": "pending",
+  "mode": "urgent",
+  "createdAt": "2023-08-13T02:27:49Z"
+}, {
   "title": "composite",
-  "note": "generate back-end metrics",
-  "location": "Behbahān",
-  "status": "pending",
-  "mode": "standard",
-  "createdAt": "2022-06-09T00:30:39Z"
- },
- {
-  "title": "homogeneous",
-  "note": "repurpose synergistic metrics",
-  "location": "Chyhyryn",
-  "status": "completed",
+  "note": "transform granular methodologies",
+  "location": "Ngurenrejo",
+  "status": "canceled",
   "mode": "important",
-  "createdAt": "2022-04-17T03:23:17Z"
- },
- {
-  "title": "open system",
-  "note": "incentivize seamless web services",
-  "location": "Saint-Gaudens",
+  "createdAt": "2023-09-17T01:12:09Z"
+}, {
+  "title": "throughput",
+  "note": "syndicate frictionless partnerships",
+  "location": "Lijie",
+  "status": "completed",
+  "mode": "urgent",
+  "createdAt": "2023-08-20T21:53:24Z"
+}, {
+  "title": "function",
+  "note": "maximize cutting-edge channels",
+  "location": "Makato",
+  "status": "canceled",
+  "mode": "important",
+  "createdAt": "2023-11-16T09:46:51Z"
+}, {
+  "title": "array",
+  "note": "exploit customized supply-chains",
+  "location": "Fort-de-France",
+  "status": "canceled",
+  "mode": "standard",
+  "createdAt": "2023-08-29T21:02:40Z"
+}, {
+  "title": "high-level",
+  "note": "morph extensible functionalities",
+  "location": "Pali",
+  "status": "completed",
+  "mode": "urgent",
+  "createdAt": "2023-08-18T06:09:21Z"
+}, {
+  "title": "support",
+  "note": "e-enable dynamic ROI",
+  "location": "Libertad",
+  "status": "pending",
+  "mode": "urgent",
+  "createdAt": "2024-01-11T20:52:46Z"
+}, {
+  "title": "Implemented",
+  "note": "strategize seamless deliverables",
+  "location": "Yanmen",
+  "status": "pending",
+  "mode": "urgent",
+  "createdAt": "2023-10-29T16:54:45Z"
+}, {
+  "title": "stable",
+  "note": "unleash cross-platform functionalities",
+  "location": "Prokhorovka",
+  "status": "canceled",
+  "mode": "standard",
+  "createdAt": "2024-01-13T09:23:03Z"
+}, {
+  "title": "architecture",
+  "note": "repurpose revolutionary e-business",
+  "location": "Veliki Grđevac",
+  "status": "canceled",
+  "mode": "standard",
+  "createdAt": "2023-11-03T23:25:37Z"
+}, {
+  "title": "real-time",
+  "note": "benchmark granular e-markets",
+  "location": "Bumpe",
+  "status": "pending",
+  "mode": "important",
+  "createdAt": "2024-01-09T11:52:32Z"
+}, {
+  "title": "static",
+  "note": "utilize value-added partnerships",
+  "location": "Matayumtayum",
+  "status": "canceled",
+  "mode": "important",
+  "createdAt": "2023-12-13T17:35:05Z"
+}, {
+  "title": "Front-line",
+  "note": "exploit compelling e-markets",
+  "location": "Tangkolo",
+  "status": "completed",
+  "mode": "urgent",
+  "createdAt": "2023-08-19T08:39:02Z"
+}, {
+  "title": "matrix",
+  "note": "seize efficient channels",
+  "location": "Cipari",
+  "status": "completed",
+  "mode": "urgent",
+  "createdAt": "2023-10-17T14:20:56Z"
+}, {
+  "title": "global",
+  "note": "whiteboard cross-media systems",
+  "location": "Farīdpur",
+  "status": "completed",
+  "mode": "urgent",
+  "createdAt": "2023-11-01T20:20:23Z"
+}, {
+  "title": "intranet",
+  "note": "seize seamless schemas",
+  "location": "Aibura",
+  "status": "pending",
+  "mode": "important",
+  "createdAt": "2023-10-14T08:02:10Z"
+}, {
+  "title": "intranet",
+  "note": "utilize vertical functionalities",
+  "location": "Vukovar",
+  "status": "canceled",
+  "mode": "important",
+  "createdAt": "2024-01-29T11:42:41Z"
+}, {
+  "title": "attitude-oriented",
+  "note": "facilitate B2C e-commerce",
+  "location": "Magok",
+  "status": "canceled",
+  "mode": "standard",
+  "createdAt": "2023-10-30T20:29:21Z"
+}, {
+  "title": "Universal",
+  "note": "syndicate dot-com applications",
+  "location": "Chalu",
+  "status": "pending",
+  "mode": "important",
+  "createdAt": "2024-02-04T21:53:03Z"
+}, {
+  "title": "migration",
+  "note": "engineer scalable communities",
+  "location": "Nueva Fuerza",
   "status": "canceled",
   "mode": "urgent",
-  "createdAt": "2023-05-20T00:09:38Z"
- },
- {
-  "title": "time-frame",
-  "note": "syndicate holistic deliverables",
-  "location": "Colquemarca",
-  "status": "canceled",
-  "mode": "standard",
-  "createdAt": "2023-04-09T11:58:39Z"
- },
- {
-  "title": "neural-net",
-  "note": "envisioneer user-centric interfaces",
-  "location": "Sete Lagoas",
-  "status": "canceled",
-  "mode": "important",
-  "createdAt": "2023-02-24T07:44:22Z"
- },
- {
-  "title": "Enterprise-wide",
-  "note": "facilitate one-to-one deliverables",
-  "location": "Oefatu",
+  "createdAt": "2023-10-23T23:16:19Z"
+}, {
+  "title": "mission-critical",
+  "note": "strategize end-to-end communities",
+  "location": "Kristinehamn",
+  "status": "pending",
+  "mode": "urgent",
+  "createdAt": "2023-11-27T22:56:35Z"
+}, {
+  "title": "tertiary",
+  "note": "incubate clicks-and-mortar infomediaries",
+  "location": "Narong",
   "status": "pending",
   "mode": "important",
-  "createdAt": "2024-01-25T07:49:16Z"
- }
-]
+  "createdAt": "2023-10-05T01:27:49Z"
+}, {
+  "title": "Secured",
+  "note": "embrace revolutionary synergies",
+  "location": "Zamora",
+  "status": "completed",
+  "mode": "standard",
+  "createdAt": "2023-08-26T00:56:30Z"
+}, {
+  "title": "Synergistic",
+  "note": "deploy cross-platform channels",
+  "location": "Nanmu",
+  "status": "pending",
+  "mode": "important",
+  "createdAt": "2024-01-20T14:15:54Z"
+}, {
+  "title": "5th generation",
+  "note": "mesh next-generation ROI",
+  "location": "Caopie",
+  "status": "pending",
+  "mode": "standard",
+  "createdAt": "2023-10-04T12:55:58Z"
+}, {
+  "title": "flexibility",
+  "note": "deploy integrated synergies",
+  "location": "Bhisho",
+  "status": "canceled",
+  "mode": "standard",
+  "createdAt": "2023-09-11T23:26:09Z"
+}, {
+  "title": "product",
+  "note": "revolutionize cutting-edge e-services",
+  "location": "Damao",
+  "status": "completed",
+  "mode": "important",
+  "createdAt": "2023-11-21T06:44:57Z"
+}, {
+  "title": "Assimilated",
+  "note": "reintermediate virtual partnerships",
+  "location": "Kagoshima-shi",
+  "status": "canceled",
+  "mode": "standard",
+  "createdAt": "2023-12-01T09:16:38Z"
+}, {
+  "title": "holistic",
+  "note": "e-enable extensible initiatives",
+  "location": "Odivelas",
+  "status": "canceled",
+  "mode": "urgent",
+  "createdAt": "2023-11-14T08:49:50Z"
+}, {
+  "title": "responsive",
+  "note": "redefine vertical mindshare",
+  "location": "Álvares Machado",
+  "status": "canceled",
+  "mode": "important",
+  "createdAt": "2024-01-11T11:12:58Z"
+}, {
+  "title": "Open-source",
+  "note": "empower innovative models",
+  "location": "Dembī Dolo",
+  "status": "pending",
+  "mode": "important",
+  "createdAt": "2024-02-02T09:08:55Z"
+}, {
+  "title": "24 hour",
+  "note": "synthesize virtual e-tailers",
+  "location": "Krutja e Poshtme",
+  "status": "pending",
+  "mode": "standard",
+  "createdAt": "2023-10-07T11:44:58Z"
+}, {
+  "title": "Extended",
+  "note": "grow innovative niches",
+  "location": "Xinhua",
+  "status": "canceled",
+  "mode": "important",
+  "createdAt": "2023-10-18T12:03:18Z"
+}, {
+  "title": "regional",
+  "note": "generate 24/365 initiatives",
+  "location": "Lyakhovtsy",
+  "status": "canceled",
+  "mode": "standard",
+  "createdAt": "2023-09-21T03:33:35Z"
+}, {
+  "title": "Multi-channelled",
+  "note": "incentivize e-business models",
+  "location": "Dioila",
+  "status": "pending",
+  "mode": "standard",
+  "createdAt": "2023-09-03T02:24:12Z"
+}, {
+  "title": "Customer-focused",
+  "note": "engineer wireless systems",
+  "location": "Zhongling",
+  "status": "canceled",
+  "mode": "important",
+  "createdAt": "2024-01-10T09:17:06Z"
+}, {
+  "title": "strategy",
+  "note": "synergize front-end e-commerce",
+  "location": "Kombapari",
+  "status": "completed",
+  "mode": "standard",
+  "createdAt": "2024-01-12T00:04:34Z"
+}, {
+  "title": "Team-oriented",
+  "note": "empower end-to-end models",
+  "location": "Hengshanqiao",
+  "status": "pending",
+  "mode": "standard",
+  "createdAt": "2023-11-05T22:19:46Z"
+}, {
+  "title": "Fundamental",
+  "note": "iterate granular e-business",
+  "location": "Sioux Falls",
+  "status": "canceled",
+  "mode": "standard",
+  "createdAt": "2023-08-15T21:15:33Z"
+}, {
+  "title": "Versatile",
+  "note": "implement extensible channels",
+  "location": "Zhongxing",
+  "status": "pending",
+  "mode": "important",
+  "createdAt": "2023-09-02T13:18:21Z"
+}, {
+  "title": "Face to face",
+  "note": "empower visionary infomediaries",
+  "location": "Quwaysinā",
+  "status": "canceled",
+  "mode": "important",
+  "createdAt": "2023-08-25T04:36:28Z"
+}, {
+  "title": "heuristic",
+  "note": "recontextualize turn-key partnerships",
+  "location": "Khvorostyanka",
+  "status": "completed",
+  "mode": "urgent",
+  "createdAt": "2023-09-15T13:39:19Z"
+}, {
+  "title": "local",
+  "note": "reinvent turn-key web-readiness",
+  "location": "Ban Mai",
+  "status": "pending",
+  "mode": "urgent",
+  "createdAt": "2023-12-17T22:17:29Z"
+}, {
+  "title": "Compatible",
+  "note": "brand web-enabled supply-chains",
+  "location": "Alcanhões",
+  "status": "canceled",
+  "mode": "urgent",
+  "createdAt": "2023-10-26T19:16:12Z"
+}, {
+  "title": "Enterprise-wide",
+  "note": "target customized content",
+  "location": "Nankengzi",
+  "status": "completed",
+  "mode": "urgent",
+  "createdAt": "2023-10-10T11:50:29Z"
+}, {
+  "title": "architecture",
+  "note": "disintermediate plug-and-play e-tailers",
+  "location": "Metz",
+  "status": "pending",
+  "mode": "important",
+  "createdAt": "2023-12-08T06:58:16Z"
+}, {
+  "title": "Versatile",
+  "note": "harness innovative action-items",
+  "location": "Ýpsonas",
+  "status": "canceled",
+  "mode": "standard",
+  "createdAt": "2023-09-10T18:54:18Z"
+}, {
+  "title": "dynamic",
+  "note": "leverage mission-critical synergies",
+  "location": "Tarbagatay",
+  "status": "pending",
+  "mode": "standard",
+  "createdAt": "2023-08-23T13:57:04Z"
+}, {
+  "title": "mission-critical",
+  "note": "empower open-source ROI",
+  "location": "Dalang",
+  "status": "canceled",
+  "mode": "standard",
+  "createdAt": "2023-11-29T21:23:11Z"
+}, {
+  "title": "Re-contextualized",
+  "note": "transform enterprise infomediaries",
+  "location": "Malamig",
+  "status": "completed",
+  "mode": "urgent",
+  "createdAt": "2023-08-19T09:47:26Z"
+}, {
+  "title": "core",
+  "note": "cultivate next-generation e-tailers",
+  "location": "Mölndal",
+  "status": "completed",
+  "mode": "important",
+  "createdAt": "2024-01-13T04:35:31Z"
+}, {
+  "title": "contextually-based",
+  "note": "iterate global mindshare",
+  "location": "Bungu",
+  "status": "canceled",
+  "mode": "standard",
+  "createdAt": "2024-01-30T17:22:25Z"
+}, {
+  "title": "Secured",
+  "note": "e-enable web-enabled platforms",
+  "location": "Crumlin",
+  "status": "canceled",
+  "mode": "urgent",
+  "createdAt": "2023-10-11T09:39:52Z"
+}, {
+  "title": "Streamlined",
+  "note": "innovate holistic relationships",
+  "location": "Paris La Défense",
+  "status": "pending",
+  "mode": "standard",
+  "createdAt": "2023-12-02T05:32:16Z"
+}, {
+  "title": "Reduced",
+  "note": "transform turn-key systems",
+  "location": "Novokhopërsk",
+  "status": "completed",
+  "mode": "important",
+  "createdAt": "2023-12-18T05:51:40Z"
+}, {
+  "title": "Fundamental",
+  "note": "optimize cutting-edge mindshare",
+  "location": "Saint-Pierre-Montlimart",
+  "status": "completed",
+  "mode": "standard",
+  "createdAt": "2024-01-14T03:41:36Z"
+}, {
+  "title": "Multi-lateral",
+  "note": "strategize dot-com schemas",
+  "location": "Mezhevoy",
+  "status": "completed",
+  "mode": "standard",
+  "createdAt": "2023-12-06T10:08:31Z"
+}, {
+  "title": "Universal",
+  "note": "matrix proactive technologies",
+  "location": "Sigay",
+  "status": "canceled",
+  "mode": "urgent",
+  "createdAt": "2024-01-21T17:59:05Z"
+}, {
+  "title": "Diverse",
+  "note": "unleash one-to-one platforms",
+  "location": "T’aebaek",
+  "status": "pending",
+  "mode": "urgent",
+  "createdAt": "2023-12-02T21:24:51Z"
+}, {
+  "title": "emulation",
+  "note": "morph magnetic interfaces",
+  "location": "Sjöbo",
+  "status": "pending",
+  "mode": "important",
+  "createdAt": "2023-11-09T11:06:01Z"
+}, {
+  "title": "Proactive",
+  "note": "expedite B2B portals",
+  "location": "Jianping",
+  "status": "pending",
+  "mode": "standard",
+  "createdAt": "2023-12-07T15:55:18Z"
+}, {
+  "title": "Digitized",
+  "note": "facilitate bleeding-edge ROI",
+  "location": "Conchamarca",
+  "status": "pending",
+  "mode": "standard",
+  "createdAt": "2023-11-10T05:56:49Z"
+}, {
+  "title": "bandwidth-monitored",
+  "note": "facilitate distributed technologies",
+  "location": "Xiaolan",
+  "status": "pending",
+  "mode": "important",
+  "createdAt": "2023-11-07T12:32:00Z"
+}, {
+  "title": "Polarised",
+  "note": "leverage collaborative e-markets",
+  "location": "Thawi Watthana",
+  "status": "canceled",
+  "mode": "standard",
+  "createdAt": "2024-01-11T06:05:01Z"
+}, {
+  "title": "Cloned",
+  "note": "deploy global bandwidth",
+  "location": "Pakalongan",
+  "status": "canceled",
+  "mode": "standard",
+  "createdAt": "2023-10-19T08:44:56Z"
+}, {
+  "title": "matrix",
+  "note": "synthesize virtual synergies",
+  "location": "Bamusso",
+  "status": "pending",
+  "mode": "urgent",
+  "createdAt": "2023-11-11T06:18:55Z"
+}, {
+  "title": "User-friendly",
+  "note": "maximize cross-media eyeballs",
+  "location": "Huanghuatan",
+  "status": "canceled",
+  "mode": "urgent",
+  "createdAt": "2023-08-17T11:27:48Z"
+}, {
+  "title": "approach",
+  "note": "recontextualize leading-edge methodologies",
+  "location": "Yokkaichi",
+  "status": "completed",
+  "mode": "important",
+  "createdAt": "2023-08-23T20:20:17Z"
+}, {
+  "title": "Team-oriented",
+  "note": "engage wireless e-business",
+  "location": "Cova da Iria",
+  "status": "canceled",
+  "mode": "urgent",
+  "createdAt": "2024-01-13T20:17:07Z"
+}, {
+  "title": "alliance",
+  "note": "productize 24/365 mindshare",
+  "location": "Mehona",
+  "status": "pending",
+  "mode": "important",
+  "createdAt": "2024-01-28T04:22:24Z"
+}, {
+  "title": "Devolved",
+  "note": "transition next-generation convergence",
+  "location": "Kinel’-Cherkassy",
+  "status": "completed",
+  "mode": "urgent",
+  "createdAt": "2023-11-29T03:52:45Z"
+}, {
+  "title": "full-range",
+  "note": "synergize real-time networks",
+  "location": "Saryaghash",
+  "status": "completed",
+  "mode": "urgent",
+  "createdAt": "2024-01-22T06:24:47Z"
+}, {
+  "title": "Stand-alone",
+  "note": "revolutionize intuitive deliverables",
+  "location": "Gushan",
+  "status": "canceled",
+  "mode": "standard",
+  "createdAt": "2023-11-12T19:38:55Z"
+}, {
+  "title": "leverage",
+  "note": "optimize value-added architectures",
+  "location": "San Martín de los Andes",
+  "status": "completed",
+  "mode": "important",
+  "createdAt": "2024-01-11T06:03:10Z"
+}, {
+  "title": "Triple-buffered",
+  "note": "reinvent clicks-and-mortar infrastructures",
+  "location": "Évreux",
+  "status": "pending",
+  "mode": "standard",
+  "createdAt": "2023-10-02T18:27:40Z"
+}, {
+  "title": "zero defect",
+  "note": "cultivate open-source channels",
+  "location": "Carvalhal",
+  "status": "completed",
+  "mode": "urgent",
+  "createdAt": "2023-12-29T03:50:05Z"
+}, {
+  "title": "paradigm",
+  "note": "matrix B2B web services",
+  "location": "Longgang",
+  "status": "completed",
+  "mode": "standard",
+  "createdAt": "2023-08-12T05:30:10Z"
+}, {
+  "title": "migration",
+  "note": "e-enable out-of-the-box interfaces",
+  "location": "Oula Xiuma",
+  "status": "canceled",
+  "mode": "important",
+  "createdAt": "2024-01-28T01:35:31Z"
+}, {
+  "title": "framework",
+  "note": "cultivate viral networks",
+  "location": "Kvartsitnyy",
+  "status": "canceled",
+  "mode": "important",
+  "createdAt": "2023-09-01T12:30:44Z"
+}, {
+  "title": "Customer-focused",
+  "note": "engage rich methodologies",
+  "location": "Tongqing",
+  "status": "pending",
+  "mode": "standard",
+  "createdAt": "2023-12-19T07:58:14Z"
+}, {
+  "title": "Multi-channelled",
+  "note": "envisioneer leading-edge models",
+  "location": "Radā‘",
+  "status": "canceled",
+  "mode": "urgent",
+  "createdAt": "2023-10-30T13:02:30Z"
+}, {
+  "title": "Persevering",
+  "note": "deploy customized networks",
+  "location": "Posadas",
+  "status": "canceled",
+  "mode": "important",
+  "createdAt": "2023-11-25T10:55:31Z"
+}, {
+  "title": "intermediate",
+  "note": "reintermediate killer infrastructures",
+  "location": "Outapi",
+  "status": "completed",
+  "mode": "important",
+  "createdAt": "2023-10-27T02:04:41Z"
+}]
+
+​
