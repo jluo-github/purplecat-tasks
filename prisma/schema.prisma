@@ -7,7 +7,9 @@ generator client {
 
 datasource db {
   provider = "postgresql"
+  // provider = "mysql"
   url      = env("DATABASE_URL")
+  // url="mysql://tasksdb-353035314204:My123456@mysql.gb.stackcp.com:56122/tasksdb-353035314204"
 }
 
 
