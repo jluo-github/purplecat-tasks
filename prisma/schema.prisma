@@ -12,7 +12,7 @@ datasource db {
 
  
 model task {
-  id        String   @id @default(auto()) @map("_id") @db.ObjectId
+  id        String   @id @default(uuid()) @map("_id") @db.ObjectId
   clerkId   String
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
