@@ -2,15 +2,14 @@ Please visit [PurpleCat-Tasks-App](https://purple-cat-task.vercel.app/) for more
 
 ## Skills and tools Used:
 
+- **Next.js:** Used for server-side rendering and routing.
+- **React:** Used for building the frontend of the website.
+- **TypeScript:** Added for type safety and improving code quality.
+- **Tailwind CSS:** Used for rapidly styling the user interface with utility classes.
+- **clerk**: Used for authentication and user management.
+- **Shadcn UI**: Implemented for designing and developing UI components.
 - **@tanstack/react-query**: Used for data fetching and management.
-- **@clerk/nextjs**: Used for authentication and user management.
-
-- **dayjs**: Used for date handling.
-- **next-themes**: Used for theme management in Next.js.
-- **Prisma ORM**: Used for database operations and management.
-- **Shadcn UI**: Integrated UI components like buttons, dropdown menus, forms, inputs, selects, toasts, badges, separators, cards, and skeletons for frontend development.
-- **Lucide Icons**: Utilized for graphical elements in the UI.
-- **Mockaroo**: Utilized for generating mock data.
+- **Prisma ORM**: Used for database operations and management.  
 - **Recharts**: Integrated for creating interactive charts and visualizations in the application.
 
 ### npm
